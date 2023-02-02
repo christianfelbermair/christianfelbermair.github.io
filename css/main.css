@@ -1,0 +1,104 @@
+
+@media screen and (max-width: 768px) {
+    .me_container {
+        background-image: url('../images/background_v.jpg');
+        background-size: cover;
+        min-height: 600px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .me_container {
+        background-image: url('../images/background_h.jpg');
+        background-size: cover;
+        min-height: 500px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .me_container {
+        background-image: url('../images/background_h.jpg');
+        background-size: cover;
+        min-height: 600px;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .me_container {
+        background-image: url('../images/background_h.jpg');
+        background-size: cover;
+        min-height: 750px;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    .me_container {
+        background-image: url('../images/background_h.jpg');
+        background-size: cover;
+        min-height: 850px;
+    }
+}
+
+@media screen and (min-width: 2000px) {
+    .me_container {
+        background-image: url('../images/background_h.jpg');
+        background-size: cover;
+        min-height: 1000px;
+    }
+}
+
+.name {
+    font-size: max(1.2em, 25px);
+    color: white;
+    padding-top: 1em;
+    padding-left: 1em;
+}
+
+.position {
+    font-size: max(1em, 20px);
+    color: white;
+    padding-top: 10px;
+    padding-left: 1.3em;
+}
+
+.role {
+    font-size: max(1em, 20px);
+    color: white;
+    padding-top: 10px;
+    padding-left: 1.3em;
+}
+
+.motivation {
+    font-size: max(1em, 20px);
+    color: white;
+    padding-top: 12em;
+    padding-left: 4em;
+}
+
+.skill_set_heading {
+    padding-left: 1em;
+}
+
+.skill_set_group {
+    padding-bottom: 25px;
+}
+
+a.list-group-item {
+    font-size: max(0.7em, 20px);
+}
+
+.skillset-dev-group-header {
+    font-size: max(0.7em, 20px);
+}
+
+.skillset-dev-subgroup-header {
+    font-size: max(0.7em, 20px);
+}
+
+.about_me_group {
+    padding-bottom: 20px;
+}
+
+.padr10 {
+    padding-right: 10px;
+}
