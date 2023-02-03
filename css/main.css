@@ -88,19 +88,15 @@ a.list-group-item {
 }
 
 .skillset-dev-group-header {
-    font-size: max(0.5em, 20px);
+    font-size: max(0.7em, 20px);
 }
 
 .skillset-dev-subgroup-header {
-    font-size: max(0.5em, 20px);
+    font-size: max(0.7em, 20px);
 }
 
 .about_me_group {
     padding-bottom: 20px;
-}
-
-.aboutme-group-header {
-    font-size: max(0.7em, 20px);
 }
 
 .padr10 {
